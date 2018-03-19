@@ -10,6 +10,10 @@ Creando juegos con el curso Game design - MITx 11.126x
 * [Semana 4](contenido/w4.md)
 * [Semana 5](contenido/w5.md)
 
+### Sobre diseño de _platformers_
+
+* [Diseño de niveles](contenido/platformer/leveldesign.md)
+
 ----
 
 **Elena Guzman**
