@@ -45,13 +45,27 @@ Te ayudan a concentrarte en regiones concretas para darles riqueza. No es algo d
 
 ## 5 - Realiza un diseño detallado
 
+Es hora de añadir detalles usando como guía el diseño del paso 3. Es posible que necesites cambiar algunos detalles. Coloca tantos elementos generales como puedas en el diseño, si no te caben puedes añadir los demás en pasos posteriores.
+
+Ten en cuenta que algunos elementos pueden necesitar algún orden específico conforme la ruta que pueda seguir el personaje a controlar.
+
 ## 6 - Construye, añade, ¡compila!
+
+Toca pasar del diseño a papel al digital, usando tu editor de niveles, _game engine_ o cualquier otra herramienta que tengas preparada. Construye todo el nivel antes de agregar los detalles visuales: distribución de enemigos, _items_...
+
+Usa gráficos sencillos, a ser posible de los mismos colores que tendrán al final, porque pueden afectar al _game feel_.
 
 ## 7 - Prueba el nivel diseñado
 
+La diversión del nivel la comprobarás a medida que lo juegues, y es aquí donde vendrán las posibles modificaciones. Algunas buenas modificaciones podrían ser:
+
+* Mueve, añade o elimina plataformas para facilitar o complicar el nivel
+* Mueve, añade o elimina _power-ups_ para equilibrar la cantidad que hay al alcance
+* Mueve, añade o elimina enemigos para facilitar o complicar el nivel
+
 ## 8 - ¡Decora al gusto!
 
-Usando el paso tres, es hora de añadir detalles.
+Una vez te satisfagan las modificaciones y sea divertido, añade detalles. Gráficos, audio, música... y vuelve a jugar para comprobar que la sensación del juego ha mejorado. No olvides que con todos los añadidos, incluido el fondo, los enemigos y _items_ a recoger son visibles y distinguibles.
 
 #### Fuente: [How to design levels for platformers](http://devmag.org.za/2011/07/04/how-to-design-levels-for-a-platformer/)
 
