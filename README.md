@@ -23,6 +23,7 @@
 
 * [_Game UI Patterns_](http://gameuipatterns.com/)
 * [_Cookbook_ de _Godot Engine_](https://beelzenef.github.io/blueGodot/)
+* [_Advice for tabletop games playtesting_](https://gaslands.com/playtesting-tabletop-games-advice/)
 * [Canal de Telegram _learning gamedev_](https://t.me/togamedev)
 
 ----
