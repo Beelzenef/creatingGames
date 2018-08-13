@@ -69,4 +69,5 @@ Una vez te satisfagan las modificaciones y sea divertido, añade detalles. Gráf
 
 #### Fuente: [How to design levels for platformers](http://devmag.org.za/2011/07/04/how-to-design-levels-for-a-platformer/)
 
+---
 #### [Volver al inicio](../../README.md)
